@@ -5,21 +5,29 @@ This project performs **RFM segmentation** and **Customer Lifetime Value (CLV)**
 ## 📂 Project Structure
 
 - `data/` - Contains raw dataset  
-- `notebooks/` - Jupyter notebooks for RFM & CLV analysis
+- `notebooks/` - Jupyter notebooks for RFM & CLV analysis  
 
 ## 🛠 Tools & Libraries
+
 - Python (Pandas, NumPy)  
 - Matplotlib  
-- Squarify (for treemaps)
+- Squarify (for treemaps visualization)  
 
-## 🔍 Analysis
+## 🔍 Analysis Workflow
+
 1. Load and explore raw data  
-2. RFM calculation, segmentation and visualization 
-3. CLV calculation 
+2. RFM calculation, segmentation, and visualization  
+3. CLV calculation  
 4. Insights on top customers and revenue contribution  
 
 ## 📁 Files
-- `raw_data.csv` - Original dataset (placed in `data/`)  
-- `RFM_analysis.ipynb` - Notebook for RFM exploration  
-- `CLV_analysis.ipynb` - Notebook for CLV exploration  
 
+- `data/ecommerce.csv` - Original dataset  
+- `notebooks/RFM_analysis.ipynb` - Notebook for RFM exploration  
+- `notebooks/CLV_analysis.ipynb` - Notebook for CLV exploration  
+
+## 👤 Author
+
+**Summayah Khan**  
+- Data Analyst | 📊 Data Visualization | 🔎 Data Insights  
+- [LinkedIn](https://www.linkedin.com/in/summayahkhan)
