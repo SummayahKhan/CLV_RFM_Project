@@ -11,7 +11,7 @@ This project performs **RFM segmentation** and **Customer Lifetime Value (CLV)**
 - Python (Pandas, NumPy)  
 - Matplotlib  
 - Squarify (for treemaps)
-- 
+
 ## 🔍 Analysis
 1. Load and explore raw data  
 2. RFM calculation, segmentation and visualization 
